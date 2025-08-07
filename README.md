@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Android Studio and VS Code
 
 
-[![Aerodymeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerodymeus&count_private=true&show_icons=true&theme=radical)](https://github.com/aerodymeus/github-stats)
+[![Aerodymeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerodymeus&count_private=true&show_icons=true&theme=radical)](https://github.com/aerodymeus/github-readme-stats)
 
 <!--
 **Aerodymeus/aerodymeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
